@@ -49,7 +49,7 @@ The application processes real-time inputs and provides terrain-level understand
 - Data pipeline management  
 - Model-backend interaction  
 
-GitHub: https://github.com/mishraji55
+GitHub: https://github.com/
 
 ---
 
@@ -71,7 +71,7 @@ GitHub: https://github.com/
 - Backend architecture  
 - AI pipeline development  
 
-GitHub: https://github.com/
+GitHub: https://github.com/mishraji55
 
 ---
 
