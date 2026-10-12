@@ -71,7 +71,7 @@ GitHub: https://github.com/
 - Backend architecture  
 - AI pipeline development  
 
-GitHub: https://github.com/mishraji55
+GitHub: https://github.com/sahilmishra-tech
 
 ---
 
